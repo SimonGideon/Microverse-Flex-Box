@@ -5,21 +5,22 @@
 
 > Getting myself familiar with CSS flexboxes.
 
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 
 ## Built With
 
-- CSS
 - HTML
+- CSS
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
+- GitHub: [@SimonGideon](https://github.com/SimonGideon)
+- Twitter: [@Simo_Giddy](https://twitter.com/Simo_Giddy)
+- LinkedIn: [mnayi-gideon](https://linkedin.com/in/mnayi-gideon)
 
 
 ## 🤝 Contributing
